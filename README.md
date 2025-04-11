@@ -33,7 +33,7 @@ I'm a passionate **Full Stack Developer** with leadership experience and a deep 
 - 🔭 I’m currently leading dev teams on large-scale projects
 - 🧠 Constantly learning and mentoring in modern tech
 - 💬 Ask me about system architecture, performance tuning, or anything dev-related
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.dev)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sreekanth-reddy-ai/) | [Portfolio](https://yourwebsite.dev)
 
 ---
 
